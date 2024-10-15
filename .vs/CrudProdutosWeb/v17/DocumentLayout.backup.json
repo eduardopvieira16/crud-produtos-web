@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eduar\\Projetos\\Teste DataOn\\backend\\CrudProdutosWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC7D5D-BA21-4651-B0F7-B3A77A8F9281}|CrudProdutosWeb\\CrudProdutosWeb.csproj|c:\\users\\eduar\\projetos\\teste dataon\\backend\\crudprodutosweb\\crudprodutosweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AC7D5D-BA21-4651-B0F7-B3A77A8F9281}|CrudProdutosWeb\\CrudProdutosWeb.csproj|solutionrelative:crudprodutosweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC7D5D-BA21-4651-B0F7-B3A77A8F9281}|CrudProdutosWeb\\CrudProdutosWeb.csproj|c:\\users\\eduar\\projetos\\teste dataon\\backend\\crudprodutosweb\\crudprodutosweb\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AC7D5D-BA21-4651-B0F7-B3A77A8F9281}|CrudProdutosWeb\\CrudProdutosWeb.csproj|solutionrelative:crudprodutosweb\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC7D5D-BA21-4651-B0F7-B3A77A8F9281}|CrudProdutosWeb\\CrudProdutosWeb.csproj|c:\\users\\eduar\\projetos\\teste dataon\\backend\\crudprodutosweb\\crudprodutosweb\\services\\produtoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AC7D5D-BA21-4651-B0F7-B3A77A8F9281}|CrudProdutosWeb\\CrudProdutosWeb.csproj|solutionrelative:crudprodutosweb\\services\\produtoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AC7D5D-BA21-4651-B0F7-B3A77A8F9281}|CrudProdutosWeb\\CrudProdutosWeb.csproj|c:\\users\\eduar\\projetos\\teste dataon\\backend\\crudprodutosweb\\crudprodutosweb\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AC7D5D-BA21-4651-B0F7-B3A77A8F9281}|CrudProdutosWeb\\CrudProdutosWeb.csproj|solutionrelative:crudprodutosweb\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Projetos\\Teste DataOn\\backend\\CrudProdutosWeb\\CrudProdutosWeb\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "CrudProdutosWeb\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\eduar\\Projetos\\Teste DataOn\\backend\\CrudProdutosWeb\\CrudProdutosWeb\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "CrudProdutosWeb\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:37:09.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoServico.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Projetos\\Teste DataOn\\backend\\CrudProdutosWeb\\CrudProdutosWeb\\Services\\ProdutoServico.cs",
+              "RelativeDocumentMoniker": "CrudProdutosWeb\\Services\\ProdutoServico.cs",
+              "ToolTip": "C:\\Users\\eduar\\Projetos\\Teste DataOn\\backend\\CrudProdutosWeb\\CrudProdutosWeb\\Services\\ProdutoServico.cs",
+              "RelativeToolTip": "CrudProdutosWeb\\Services\\ProdutoServico.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:10:11.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Projetos\\Teste DataOn\\backend\\CrudProdutosWeb\\CrudProdutosWeb\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "CrudProdutosWeb\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\eduar\\Projetos\\Teste DataOn\\backend\\CrudProdutosWeb\\CrudProdutosWeb\\Models\\Produto.cs",
+              "RelativeToolTip": "CrudProdutosWeb\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:08:49.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\Projetos\\Teste DataOn\\backend\\CrudProdutosWeb\\CrudProdutosWeb\\Program.cs",
+              "RelativeDocumentMoniker": "CrudProdutosWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\eduar\\Projetos\\Teste DataOn\\backend\\CrudProdutosWeb\\CrudProdutosWeb\\Program.cs",
+              "RelativeToolTip": "CrudProdutosWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:01:55.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

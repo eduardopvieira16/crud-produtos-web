@@ -6,7 +6,7 @@
 http://localhost:5241/api/produto/{id}
 
 ## PUT
-###http://localhost:5241/api/produto/{id}
+### http://localhost:5241/api/produto/{id}
 
 example:
     {
